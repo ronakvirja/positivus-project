@@ -1422,10 +1422,6 @@ p {
     width: 84%;
   }
 
-  .card-container {
-    justify-content: left;
-  }
-
   .left-heading {
     max-width: 100%;
     gap: 0;
