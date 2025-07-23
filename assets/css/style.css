@@ -1624,11 +1624,16 @@ p {
   }
 
   .testimonials-section {
-    padding-top: 56px;
+    padding-top: 50px;
+    padding-bottom: 50px;
   }
 
   .splide__list {
     gap: 10px;
+  }
+
+  .splide-text p {
+    font-size: 18px;
   }
 
   .splide__arrows {
@@ -1652,7 +1657,7 @@ p {
   }
 
   .splide-text {
-    padding: 30px 30px 30.95px;
+    padding: 23px 23px 23.95px;
   }
 
   .splide__slide {
